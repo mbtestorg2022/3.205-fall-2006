@@ -8,17 +8,126 @@ Included below is the calendar for the kinetics portion of 3.205, typically taug
 
   
 
-| LEC # | TOPICS |
-| --- | --- |
-| 1 | Fields and Gradients, Fluxes, Continuity Equation |
-| 2 | Entropy Production, Conjugate Driving Forces |
-| 3 | Mass Diffusion in a Continuum, Diffusion Coefficients |
-| 4 | Solutions to the Diffusion/Heat Equation, Atomistic Mechanisms of Diffusion |
-| 5 | Diffusion in Ionic Crystals |
-| 6 | Role of Microstructure in Diffusion; Short Circuits |
-| 7 | Homogeneous and Heterogeneous Nucleation |
-| 8 | Diffusional Growth, The "Moving Boundary" Problem |
-| 9 | Solidification |
-| 10 | Spinodal Decomposition |
-| 11 | Particle Coarsening |
-| 12 | Sintering
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+LEC #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Fields and Gradients, Fluxes, Continuity Equation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Entropy Production, Conjugate Driving Forces
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Mass Diffusion in a Continuum, Diffusion Coefficients
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Solutions to the Diffusion/Heat Equation, Atomistic Mechanisms of Diffusion
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusion in Ionic Crystals
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Role of Microstructure in Diffusion; Short Circuits
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Homogeneous and Heterogeneous Nucleation
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Diffusional Growth, The "Moving Boundary" Problem
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Solidification
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Spinodal Decomposition
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Particle Coarsening
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Sintering
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
