@@ -4,6 +4,7 @@ description: This resource contains lecture references and key concepts of heter
   nucleation theory.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/a9ac947134bb44ae2cbfbfc5644da857_lecture7b_review.pdf
 file_type: application/pdf
+parent_uid: 7b31c34f-2920-c017-597c-dd302a82811a
 resourcetype: Document
 title: lecture7b_review.pdf
 uid: a9ac9471-34bb-44ae-2cbf-bfc5644da857

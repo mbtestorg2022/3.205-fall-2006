@@ -6,6 +6,7 @@ description: 'This file is a resource which contains information on spinodal dec
   and spinodal microstructures.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/4aa3ce8d667e1dbc481198aee896dfd9_lecture10_review.pdf
 file_type: application/pdf
+parent_uid: 7b31c34f-2920-c017-597c-dd302a82811a
 resourcetype: Document
 title: lecture10_review.pdf
 uid: 4aa3ce8d-667e-1dbc-4811-98aee896dfd9

@@ -6,6 +6,7 @@ description: 'This is a resource which contains information on mass diffusion in
   diffusion.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/dd4e2a11a931f6728ca6836f0a6a4f32_lecture02_slides.pdf
 file_type: application/pdf
+parent_uid: 7b31c34f-2920-c017-597c-dd302a82811a
 resourcetype: Document
 title: lecture02_slides.pdf
 uid: dd4e2a11-a931-f672-8ca6-836f0a6a4f32

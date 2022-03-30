@@ -6,6 +6,7 @@ description: 'This file is a resource which contains information on the role of 
   structure and diffusion.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/cde0f669066eb22d6ed83adee4846bb7_lecture06_review.pdf
 file_type: application/pdf
+parent_uid: 7b31c34f-2920-c017-597c-dd302a82811a
 resourcetype: Document
 title: lecture06_review.pdf
 uid: cde0f669-066e-b22d-6ed8-3adee4846bb7

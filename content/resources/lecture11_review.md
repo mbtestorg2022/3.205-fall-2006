@@ -5,6 +5,7 @@ description: 'This file is a resource which contains information on particle coa
   effect, and kinetics in the diffusion-controlled regime.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/3-205-thermodynamics-and-kinetics-of-materials-fall-2006/e5c38b7ced556a7de2a2198912c7b3d6_lecture11_review.pdf
 file_type: application/pdf
+parent_uid: 7b31c34f-2920-c017-597c-dd302a82811a
 resourcetype: Document
 title: lecture11_review.pdf
 uid: e5c38b7c-ed55-6a7d-e2a2-198912c7b3d6
